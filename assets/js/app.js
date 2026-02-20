@@ -6,7 +6,7 @@
    - Auto year in footer
    ========================= */
 
-const PHONE_NUMBER = "966590277710";      // 0590277710
+const PHONE_NUMBER = "0592974414";      // 0590277710
 const WHATSAPP_NUMBER = "966592974414";   // 0592974414
 
 function qs(sel, parent=document){ return parent.querySelector(sel); }
